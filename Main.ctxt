@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=Main()
+comment2.params=
+comment2.target=void\ menu()
+comment3.params=
+comment3.target=char\ readMenuCommand()
+comment4.params=
+comment4.target=void\ encryptionSetup()
+comment5.params=
+comment5.target=void\ decryptionSetup()
+comment6.params=
+comment6.target=int\ readKeyCode()
+comment7.params=
+comment7.target=void\ help()
+comment8.params=
+comment8.target=java.lang.String\ readMessage()
+comment9.params=
+comment9.target=java.lang.String\ readMessageDe()
+numComments=10
