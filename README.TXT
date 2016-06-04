@@ -1,1 +1,1 @@
-This cryptographic system solely uses Java to encrypt and decrypt ASCII characters.
+This assignment solely uses Java to encrypt and decrypt ASCII characters.
