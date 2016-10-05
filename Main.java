@@ -1,5 +1,4 @@
-// Yasin Azimi - 11733490
-
+/* Yasin Azimi - 11733490 */
 
 public class Main
 {
@@ -11,7 +10,6 @@ public class Main
     public Main()
     {
         menu();
-
     }
 
     private void menu()
@@ -21,16 +19,14 @@ public class Main
             switch(command)
             {
                 case 'e': encryptionSetup();
-                break;
+					break;
                 case 'd': decryptionSetup();
-                break;
+					break;
                 case 'x':
-                break;
+					break;
                 default: help();
             }
-
         }
-        
     }
 
     private char readMenuCommand()
@@ -43,7 +39,6 @@ public class Main
     {
         System.out.println("Enter message to encrypt");
         new Encryption(readMessage());
-
     }
 
     private void decryptionSetup()
@@ -75,6 +70,4 @@ public class Main
         System.out.println("Enter Message 1/2");
         return In.nextLine();
     }
-
-    
 }
